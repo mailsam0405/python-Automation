@@ -1,2 +1,2 @@
 # python-Automation
-python assingments
+python auto_assingments:29,30
